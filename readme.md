@@ -34,19 +34,19 @@ AI/ML Engineer with a strong foundation in machine learning, data analysis, and 
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,SQL,R,Bash&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,bash,postgres&perline=4)](https://skillicons.dev)
 
 <br/>
 
 **Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=TensorFlow,PyTorch,Scikit-learn,Pandas&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas&perline=4)](https://skillicons.dev)
 
 <br/>
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=AWS,Docker,MLflow,Kubernetes&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,github&perline=4)](https://skillicons.dev)
 
 </div>
 
