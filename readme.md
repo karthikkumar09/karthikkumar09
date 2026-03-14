@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Karthik+Kumar+Goriga" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00C896&center=true&vCenter=true&width=620&lines=Ai+%26+Ml+Engineer;Machine Learning+%7C+Deep Learning+%7C+NLP+%7C+Computer Vision;Building+things+that+hold+up+at+3am" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+things+that+hold+up+at+3am" alt="Tagline" />
 
 <br/>
 
