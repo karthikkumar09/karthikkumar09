@@ -41,7 +41,7 @@ AI/ML Engineer with a strong foundation in machine learning, data analysis, and 
 
 **Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask&perline=4)](https://skillicons.dev)
 
 <br/>
 
