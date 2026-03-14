@@ -38,7 +38,6 @@ AI/ML Engineer with a strong foundation in machine learning, data analysis, and 
 
 <br/>
 
-**Frameworks & Tools**
 
 **Frameworks & Tools**
 
