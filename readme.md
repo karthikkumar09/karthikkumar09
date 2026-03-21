@@ -20,7 +20,7 @@
 
 ---
 
-### 👋 &nbsp;About
+### 👋 &nbsp;About Me
 
 AI/ML Engineer with a strong foundation in machine learning, data analysis, and artificial intelligence. Passionate about building intelligent systems that solve real-world problems using data-driven approaches. Experienced in developing machine learning models, data preprocessing, and deploying AI solutions. Continuously exploring advancements in deep learning, natural language processing, and computer vision to create impactful AI applications.
 
